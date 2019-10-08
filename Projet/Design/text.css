@@ -1,0 +1,57 @@
+ h1
+{ 
+text-align: center; 
+font-family:Trattatello, fantasy, sans-serif; 
+color: #22427C;
+} 
+nav {
+      display: block;
+      float: right;
+      width: 30%;
+      background-color: black;
+}
+
+
+
+#menu { 
+height: 36px;  
+font-size: 1.0em; 
+font-family: Calibri, Times New Roman, Bookman Old Style, sans-serif; 
+background-color: #22427C; 
+padding-left: 120px; 
+text-align: center;
+} 
+
+#menu li  
+{ 
+float: left;  
+list-style-type: none; 
+} 
+
+#menu li a, #menu li a:visited  
+{ 
+padding: 10px; 
+line-height: 35px; 
+font-size: 18px; 
+text-decoration: none;  
+color: #FEFEFE;  
+text-align: center;
+} 
+
+#menu li a:hover  
+{  
+background-color: #FAAC58; 
+color: white;  
+} 
+
+#corps 
+{ 
+padding: 1.0em; 
+margin-top: 10px; 
+padding-top: 2px; 
+overflow: hidden; 
+text-align: center; 
+color: white; 
+} 
+
+*
